@@ -10,6 +10,14 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/c19/268/reliquary-tower
 - https://scryfall.com/card/cma/134/praetors-counsel
 - https://scryfall.com/card/me4/211/library-of-leng
+- https://scryfall.com/card/xln/230/tishana-voice-of-thunder
+
+## Cumulative upkeep
+- https://scryfall.com/card/wth/32/ancestral-knowledge
+- https://scryfall.com/card/vis/104/elephant-grass
+- https://scryfall.com/card/csp/110/hibernations-end
+- https://scryfall.com/card/mir/78/mind-harness
+- https://scryfall.com/card/me1/42/mystic-remora
 	
 
 ## Lands
@@ -26,6 +34,9 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/c17/56/path-of-ancestry
 - https://scryfall.com/card/c19/274/simic-growth-chamber
 - https://scryfall.com/card/bfz/246/skyline-cascade
+- https://scryfall.com/card/ths/225/temple-of-deceit
+- https://scryfall.com/card/m20/254/temple-of-malady
+- https://scryfall.com/card/m20/255/temple-of-mystery
 
 ## Creatures
 
@@ -60,6 +71,11 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/uma/114/slum-reaper
 - https://scryfall.com/card/cm2/220/spine-of-ish-sah
 - https://scryfall.com/card/gtc/136/sylvan-primordial
+- https://scryfall.com/card/cma/153/terastodon
+- https://scryfall.com/card/rix/86/tetzimoc-primal-death
+- https://scryfall.com/card/6ed/260/uktabi-orangutan
+- https://scryfall.com/card/ddu/25/viridian-shaman
+- https://scryfall.com/card/uma/195/woodfall-primus
 
 
 ### Return to hand
@@ -85,9 +101,13 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/vis/43/shrieking-drake
 - https://scryfall.com/card/usg/99/stern-proctor
 - https://scryfall.com/card/xln/85/storm-sculptor
+- https://scryfall.com/card/inv/131/urborg-emissary
+- https://scryfall.com/card/mm3/55/venser-shaper-savant
+- https://scryfall.com/card/m20/81/yaroks-wavecrasher
 
 ### Blink 
 - https://scryfall.com/card/mh1/42/blizzard-strix
+- https://scryfall.com/card/jud/57/wormfang-drake
 
 ### Theft 
 - https://scryfall.com/card/m20/43/agent-of-treachery
@@ -99,6 +119,9 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/c17/121/puppeteer-clique Steal from graveyard for one turn
 - https://scryfall.com/card/gtc/75/sepulchral-primordial their graveyard
 - https://scryfall.com/card/rav/65/spawnbroker *TRADE*
+- https://scryfall.com/card/cmd/66/vedalken-plotter *TRADE*
+- https://scryfall.com/card/uds/50/treachery
+- https://scryfall.com/card/som/53/volition-reins
 
 ### Spell recursion
 - https://scryfall.com/card/uma/45/archaeomancer
@@ -118,6 +141,8 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/m20/74/scholar-of-the-ages
 - https://scryfall.com/card/cma/146/skullwinder
 - https://scryfall.com/card/uma/71/snapcaster-mage
+- https://scryfall.com/card/kld/67/torrential-gearhulk
+- https://scryfall.com/card/bbd/78/vampire-charmseeker
 
 ### Spell copying
 - https://scryfall.com/card/dom/59/naru-meha-master-wizard
@@ -146,6 +171,7 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/ddu/18/llanowar-empath
 - https://scryfall.com/card/cma/127/masked-admirers
 - https://scryfall.com/card/ulg/108/multanis-acolyte
+- https://scryfall.com/card/c18/94/mulldrifter
 - https://scryfall.com/card/akh/63/new-perspectives
 - https://scryfall.com/card/kld/163/nissa-vital-force
 - https://scryfall.com/card/ogw/140/oath-of-nissa
@@ -155,12 +181,19 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/m15/199/shaman-of-spring
 - https://scryfall.com/card/gn2/2/sphinx-of-enlightenment
 - https://scryfall.com/card/ori/77/stratus-walk
-- v
+- https://scryfall.com/card/eld/161/the-great-henge
+- https://scryfall.com/card/ddr/21/thicket-elemental
+- https://scryfall.com/card/xln/230/tishana-voice-of-thunder
+- https://scryfall.com/card/cns/109/travelers-cloak
+- https://scryfall.com/card/mh1/190/wall-of-blossoms
+- https://scryfall.com/card/c14/20/well-of-ideas
+- https://scryfall.com/card/c15/243/wistful-selkie
 
 ### Card monopoly
 - https://scryfall.com/card/shm/159/dire-undercurrents
 - https://scryfall.com/card/grn/167/disinformation-campaign
 - https://scryfall.com/card/pls/115/marsh-crocodile
+- https://scryfall.com/card/jou/85/thoughtrender-lamia
 
 ### Ramp / Mana stability
 - https://scryfall.com/card/avr/169/borderland-ranger
@@ -179,6 +212,13 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/c19/222/solemn-simulacrum
 - https://scryfall.com/card/mh1/181/springbloom-druid
 - https://scryfall.com/card/cma/151/sylvan-ranger
+- https://scryfall.com/card/soi/235/ulvenwald-hydra
+- https://scryfall.com/card/uma/235/vessel-of-endless-rest
+- https://scryfall.com/card/soi/240/weirding-wood
+- https://scryfall.com/card/kld/173/wild-wanderer
+- https://scryfall.com/card/cma/170/wood-elves
+- https://scryfall.com/card/arc/75/yavimaya-dryad
+- https://scryfall.com/card/ulg/118/yavimaya-granger
 
 ### Send to graveyard
 - https://scryfall.com/card/grn/173/glowspore-shaman
@@ -192,6 +232,11 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 ### Tutors
 - https://scryfall.com/card/ddu/10/fierce-empath
 - https://scryfall.com/card/ima/106/rune-scarred-demon
+- https://scryfall.com/card/ddu/40/treasure-mage
+- https://scryfall.com/card/mh1/73/tribute-mage
+- https://scryfall.com/card/ddu/41/trinket-mage
+- https://scryfall.com/card/ddu/42/trophy-mage
+- https://scryfall.com/card/cn2/196/wild-pair
 ### Hug
 - https://scryfall.com/card/pz2/70785/avatar-of-growth
 - https://scryfall.com/card/c18/54/coveted-jewel
@@ -211,8 +256,9 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/mh1/79/azra-smokeshaper
 - https://scryfall.com/card/c19/170/great-oak-guardian
 
-### Shroud 
+### Shroud / hexproof
 - https://scryfall.com/card/uma/222/shielding-plax
+- https://scryfall.com/card/ogw/150/void-grafter
 
 ### Strong creatures
 - https://scryfall.com/card/rna/122/biogenic-ooze
@@ -223,6 +269,7 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 ### Counter stuff
 - https://scryfall.com/card/rna/174/frilled-mystic
 - https://scryfall.com/card/a25/208/mystic-snake
+- https://scryfall.com/card/tsp/92/voidmage-husher
 
 ### Land untap
 - https://scryfall.com/card/vma/62/cloud-of-faeries
@@ -234,15 +281,22 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/e01/24/icefall-regent
 - https://scryfall.com/card/mh1/194/abominable-treefolk
 - https://scryfall.com/card/rna/43/mesmerizing-benthid
+- https://scryfall.com/card/xln/86/tempest-caller
+- https://scryfall.com/card/ddt/22/tidebinder-mage
+
+### Untap stuff
+- https://scryfall.com/card/wwk/41/tideforce-elemental
 
 ### Tokens
 - https://scryfall.com/card/bbd/65/bramble-sovereign EXPENSIVE AF
+- https://scryfall.com/card/cma/168/wolfbriar-elemental
+
+### Life gain 
+- https://scryfall.com/card/xln/213/verdant-suns-avatar
 
 ### Assorted random effects
 #### Creature protection
 - https://scryfall.com/card/c15/100/plaxmanta
-#### Unblockable stuff
-- https://scryfall.com/card/cm2/134/champion-of-lambholt
 #### Card advantage-ish + creature
 - https://scryfall.com/card/eld/84/clackbridge-troll
 #### Power Switch
@@ -255,11 +309,18 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/aer/121/ridgescale-tusker
 - https://scryfall.com/card/war/213/roalesk-apex-hybrid
 - https://scryfall.com/card/csp/120/shape-of-the-wiitigo
+- https://scryfall.com/card/m20/200/voracious-hydra
+- https://scryfall.com/card/eld/185/yorvo-lord-of-garenbrig
 #### Anti-graveyard
 - https://scryfall.com/card/c18/149/ground-seal
 - https://scryfall.com/card/c19/119/hedonists-trove card advantage too
 #### Misdirection
 - https://scryfall.com/card/c17/13/portal-mage
+#### Evasion 
+- https://scryfall.com/card/wwk/45/voyager-drake
+- https://scryfall.com/card/cm2/134/champion-of-lambholt
+- https://scryfall.com/card/c18/112/whitewater-naiads
+
 
 
 ### Powerful  notable effects
@@ -275,6 +336,7 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/c19/223/soul-foundry
 - https://scryfall.com/card/exo/75/spike-cannibal Anti +1/+1
 - https://scryfall.com/card/c14/274/strata-scythe
+- https://scryfall.com/card/mrd/261/thought-prison
 
 ### Element synergy
 - https://scryfall.com/card/ddt/1/master-of-waves
@@ -300,6 +362,13 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/c18/221/seers-sundial
 - https://scryfall.com/card/bfz/206/sire-of-stagnation *OPPONENT LANDFALL*
 - https://scryfall.com/card/m14/196/sporemound
+- https://scryfall.com/card/dom/206/tatyova-benthic-druid
+- https://scryfall.com/card/soi/233/tireless-tracker
+- https://scryfall.com/card/e01/76/turntimber-basilisk
+- https://scryfall.com/card/bfz/197/undergrowth-champion
+- https://scryfall.com/card/bfz/88/wave-wing-elemental
+- https://scryfall.com/card/e01/30/windrider-eel
+- https://scryfall.com/card/ori/209/zendikars-roil
 
 ### Energy counters
 - https://scryfall.com/card/kld/205/decoction-module return to hand as well
@@ -307,6 +376,9 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/kld/217/glassblowers-puzzleknot
 - https://scryfall.com/card/aer/152/gontis-aether-heart
 - https://scryfall.com/card/aer/135/rogue-refiner
+- https://scryfall.com/card/kld/66/thriving-turtle
+- https://scryfall.com/card/kld/171/thriving-rhino
+- https://scryfall.com/card/kld/102/thriving-rats
 
 ## Fun finds
 
@@ -316,4 +388,6 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 
 ### How to make yourself lose. Hard.
 - https://scryfall.com/card/gpt/34/sky-swallower
+
+
 
