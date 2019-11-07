@@ -1,4 +1,4 @@
-# ETB interesting card list
+# Interesting cards for a Yarok deck
 
 Some "as it enters", some not exactly ETB, but somewhat related, and interesting effects at least
 
