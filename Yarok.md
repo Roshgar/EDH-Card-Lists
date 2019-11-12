@@ -14,9 +14,13 @@
 - **INST** = Instant
 - **SORC** = Sorcery
 - **ELEM** = Elemental Synergy
+- **ELF** = Elf Synergy
 - **SAC** = Sacrifice
 - **OPP** = Opponent
+- **FIX** = Mana fixing
 - **SNOW** = Snow Synergy
+- **FIELD** = Battlefield
+- **ROCK** = Artifact that taps for mana
 - **W** = White
 - **U** = Blue
 - **B** = Black
@@ -25,7 +29,7 @@
 - **||** = OR
 - **&&** = AND
 - **CTRL** = You control
-- **HUG** = Beneficial effect to an opponent as well
+- **HUG** = Possibly beneficial effect to an opponent
 
 Some "as it enters", some not exactly ETB, but somewhat related, and interesting effects at least
 
@@ -149,6 +153,7 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/cmd/66/vedalken-plotter **LAND SWAP**
 - https://scryfall.com/card/uds/50/treachery **CREA** Untap 5 lands **$$$**
 - https://scryfall.com/card/som/53/volition-reins **PERM**
+- https://scryfall.com/card/gtc/33/diluvian-primordial **INST SORC EACH OPP GRAVEYARD** Incredibly powerful
 
 ### Spell recursion
 - https://scryfall.com/card/uma/45/archaeomancer **INST SORC**
@@ -171,6 +176,7 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/uma/71/snapcaster-mage **INST SORC** FLashback until end of turn **$$$$**
 - https://scryfall.com/card/kld/67/torrential-gearhulk **INST** Cast for free, Flash **$**
 - https://scryfall.com/card/bbd/78/vampire-charmseeker **INST SORC CREA HUG** Assist 6
+- https://scryfall.com/card/dgm/63/deadbridge-chant **RANDOM ANY CARD** Self Mill
 
 ### Spell copying
 - https://scryfall.com/card/dom/59/naru-meha-master-wizard **INST SORC**
@@ -222,152 +228,147 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/jou/85/thoughtrender-lamia **DISCARD** Enchantment synergy
 
 ### Ramp / Mana stability
-- https://scryfall.com/card/avr/169/borderland-ranger
-- https://scryfall.com/card/mm3/157/coiling-oracle
-- https://scryfall.com/card/grn/128/district-guide
-- https://scryfall.com/card/m19/180/elvish-rejuvenator
-- https://scryfall.com/card/c18/146/farhaven-elf
-- https://scryfall.com/card/aer/110/hidden-herbalists
-- https://scryfall.com/card/dom/172/marwyn-the-nurturer
-- https://scryfall.com/card/pca/71/ondu-giant
-- https://scryfall.com/card/rix/142/path-of-discovery
-- https://scryfall.com/card/c18/214/pilgrims-eye
-- https://scryfall.com/card/ima/183/primeval-titan
-- https://scryfall.com/card/inv/205/quirion-trailblazer
-- https://scryfall.com/card/aer/122/rishkar-peema-renegade
-- https://scryfall.com/card/c19/222/solemn-simulacrum
-- https://scryfall.com/card/mh1/181/springbloom-druid
-- https://scryfall.com/card/cma/151/sylvan-ranger
-- https://scryfall.com/card/soi/235/ulvenwald-hydra
-- https://scryfall.com/card/uma/235/vessel-of-endless-rest
-- https://scryfall.com/card/soi/240/weirding-wood
-- https://scryfall.com/card/kld/173/wild-wanderer
-- https://scryfall.com/card/cma/170/wood-elves
-- https://scryfall.com/card/arc/75/yavimaya-dryad
-- https://scryfall.com/card/ulg/118/yavimaya-granger
+- https://scryfall.com/card/avr/169/borderland-ranger **SEARCH BASIC LAND HAND**
+- https://scryfall.com/card/mm3/157/coiling-oracle **RAMP / DRAW ELF**
+- https://scryfall.com/card/grn/128/district-guide **SEARCH BASIC LAND GATE HAND ELF**
+- https://scryfall.com/card/m19/180/elvish-rejuvenator **FILTER LAND FIELD ELF**
+- https://scryfall.com/card/c18/146/farhaven-elf **SEARCH BASIC LAND FIELD ELF**
+- https://scryfall.com/card/aer/110/hidden-herbalists **FLOATING G x2**
+- https://scryfall.com/card/dom/172/marwyn-the-nurturer **ELF DORK**
+- https://scryfall.com/card/pca/71/ondu-giant **SEARCH BASIC LAND FIELD**
+- https://scryfall.com/card/rix/142/path-of-discovery **CREA EXPLORE**
+- https://scryfall.com/card/c18/214/pilgrims-eye **SEARCH BASIC LAND HAND**
+- https://scryfall.com/card/ima/183/primeval-titan **BANNED**
+- https://scryfall.com/card/inv/205/quirion-trailblazer **SEARCH BASIC LAND FIELD ELF**
+- https://scryfall.com/card/aer/122/rishkar-peema-renegade **COUNTERS DORK ELF**
+- https://scryfall.com/card/c19/222/solemn-simulacrum **SEARCH BASIC LAND FIELD ELF DRAW** **$**
+- https://scryfall.com/card/mh1/181/springbloom-druid **SAC LAND SEARCH BASIC LAND FIELD x2 ELF**
+- https://scryfall.com/card/cma/151/sylvan-ranger **SEARCH BASIC LAND HAND ELF**
+- https://scryfall.com/card/soi/235/ulvenwald-hydra **SEARCH LAND FIELD**
+- https://scryfall.com/card/uma/235/vessel-of-endless-rest **ROCK**
+- https://scryfall.com/card/soi/240/weirding-wood **RAMP FIX** Investigate
+- https://scryfall.com/card/kld/173/wild-wanderer **SEARCH BASIC LAND FIELD ELF**
+- https://scryfall.com/card/cma/170/wood-elves **SEARCH FOREST FIELD ELF**
+- https://scryfall.com/card/arc/75/yavimaya-dryad **SEARCH FOREST FIELD**
+- https://scryfall.com/card/ulg/118/yavimaya-granger **SEARCH BASIC LAND FIELD ELF**
 
 ### Send to graveyard
 - https://scryfall.com/card/grn/173/glowspore-shaman
 - https://scryfall.com/card/emn/67/laboratory-brute
 
 ### Discard
-- https://scryfall.com/card/c17/101/bloodhusk-ritualist
-- https://scryfall.com/card/bbd/220/dinrova-horror
-- https://scryfall.com/card/pca/34/lilianas-specter
+- https://scryfall.com/card/c17/101/bloodhusk-ritualist **DISCARD X B** Kicker
+- https://scryfall.com/card/bbd/220/dinrova-horror Return to hand and discard
+- https://scryfall.com/card/pca/34/lilianas-specter **EACH OPP** Flying
 
 ### Tutors
-- https://scryfall.com/card/ddu/10/fierce-empath
-- https://scryfall.com/card/ima/106/rune-scarred-demon
-- https://scryfall.com/card/ddu/40/treasure-mage
-- https://scryfall.com/card/mh1/73/tribute-mage
-- https://scryfall.com/card/ddu/41/trinket-mage
-- https://scryfall.com/card/ddu/42/trophy-mage
-- https://scryfall.com/card/cn2/196/wild-pair
+- https://scryfall.com/card/ddu/10/fierce-empath **CREA 6CMC <**
+- https://scryfall.com/card/ima/106/rune-scarred-demon **ANY CARD** Flying
+- https://scryfall.com/card/ddu/40/treasure-mage **ART 6CMC <**
+- https://scryfall.com/card/mh1/73/tribute-mage **ART 2CMC ===**
+- https://scryfall.com/card/ddu/41/trinket-mage **ART 1 CMC ===**
+- https://scryfall.com/card/ddu/42/trophy-mage **ART 3 CMC ===**
+- https://scryfall.com/card/cn2/196/wild-pair **ETB CREA P/T ====**
 ### Hug
-- https://scryfall.com/card/pz2/70785/avatar-of-growth
-- https://scryfall.com/card/c18/54/coveted-jewel
+- https://scryfall.com/card/pz2/70785/avatar-of-growth All search for two basic lands
+- https://scryfall.com/card/c18/54/coveted-jewel Draw and mana
 
 ### Bear hug
-- https://scryfall.com/card/ons/136/death-match
+- https://scryfall.com/card/ons/136/death-match -3/-3 triggers when someone plays a creature
 
 ### Filtering
-- https://scryfall.com/card/mor/117/cream-of-the-crop
-- https://scryfall.com/card/ddi/15/cryptic-annelid
-- https://scryfall.com/card/mh1/56/marit-lages-slumber
-- https://scryfall.com/card/akh/62/naga-oracle
-- https://scryfall.com/card/scg/44/parallel-thoughts
-- https://scryfall.com/card/usg/98/spire-owl
+- https://scryfall.com/card/mor/117/cream-of-the-crop Creature ETB causes filtering based on power
+- https://scryfall.com/card/ddi/15/cryptic-annelid **SCRY 1, SCRY 2, SCRY 3**
+- https://scryfall.com/card/mh1/56/marit-lages-slumber **SNOW SCRY** 20/20 flying indestructible
+- https://scryfall.com/card/akh/62/naga-oracle Filter top 3
+- https://scryfall.com/card/scg/44/parallel-thoughts Search library, exile 7, you can draw from that pile. Extremely weak to removal. Can be used as a specific card draw for weaker cards to bait a removal though
+- https://scryfall.com/card/usg/98/spire-owl Look at top 4
 
 ### Combat tricks 
-- https://scryfall.com/card/mh1/79/azra-smokeshaper
-- https://scryfall.com/card/c19/170/great-oak-guardian
+- https://scryfall.com/card/mh1/79/azra-smokeshaper Indestructible 
+- https://scryfall.com/card/c19/170/great-oak-guardian **HUG** Flash, Reach +2/+2
+- https://scryfall.com/card/cns/94/crookclaw-transmuter Switch Creatures P/T
+- https://scryfall.com/card/c17/13/portal-mage Change target of one creature during attacking phase
 
 ### Shroud / hexproof
-- https://scryfall.com/card/uma/222/shielding-plax
-- https://scryfall.com/card/ogw/150/void-grafter
+- https://scryfall.com/card/uma/222/shielding-plax Draw and shroud enchanted creature
+- https://scryfall.com/card/ogw/150/void-grafter Flash hexproof
+- - https://scryfall.com/card/c15/100/plaxmanta Flash shroud
 
 ### Strong creatures
-- https://scryfall.com/card/rna/122/biogenic-ooze
-- https://scryfall.com/card/rna/124/end-raze-forerunners
-- https://scryfall.com/card/eld/152/feasting-troll-king
-- https://scryfall.com/card/eve/163/sturdy-hatchling
+- https://scryfall.com/card/rna/122/biogenic-ooze **Ooze**
+- https://scryfall.com/card/rna/124/end-raze-forerunners **SMASH**
+- https://scryfall.com/card/eld/152/feasting-troll-king **RECURSION**
+- https://scryfall.com/card/eve/163/sturdy-hatchling **GROWS SHROUD**
 
 ### Counter stuff
 - https://scryfall.com/card/rna/174/frilled-mystic
 - https://scryfall.com/card/a25/208/mystic-snake
-- https://scryfall.com/card/tsp/92/voidmage-husher
+- https://scryfall.com/card/tsp/92/voidmage-husher **ABILITY** Can return to hand
 
 ### Land untap
-- https://scryfall.com/card/vma/62/cloud-of-faeries
-- https://scryfall.com/card/usg/77/great-whale
-- https://scryfall.com/card/vma/86/palinchron
-- https://scryfall.com/card/bbd/128/peregrine-drake
+- https://scryfall.com/card/vma/62/cloud-of-faeries **x2** Flying
+- https://scryfall.com/card/usg/77/great-whale **x7** **$**
+- https://scryfall.com/card/vma/86/palinchron **x7** **$$** Flying
+- https://scryfall.com/card/bbd/128/peregrine-drake **x5** Flying
 
 ### Tap stuff
-- https://scryfall.com/card/e01/24/icefall-regent
-- https://scryfall.com/card/mh1/194/abominable-treefolk
-- https://scryfall.com/card/rna/43/mesmerizing-benthid
-- https://scryfall.com/card/xln/86/tempest-caller
-- https://scryfall.com/card/ddt/22/tidebinder-mage
+- https://scryfall.com/card/e01/24/icefall-regent **CREA** Flying, Does not untap as long as regent is alive
+- https://scryfall.com/card/mh1/194/abominable-treefolk **CREA SNOW** ignore next untap 
+- https://scryfall.com/card/rna/43/mesmerizing-benthid Creates blockers, ignore next untap
+- https://scryfall.com/card/xln/86/tempest-caller **ALL CREA 1 OPP**
+- https://scryfall.com/card/ddt/22/tidebinder-mage **CREA R || G** Does not untap as long as mage is alive
 
 ### Untap stuff
-- https://scryfall.com/card/wwk/41/tideforce-elemental
+- https://scryfall.com/card/wwk/41/tideforce-elemental **CREA** landfall
 
 ### Tokens
-- https://scryfall.com/card/bbd/65/bramble-sovereign EXPENSIVE AF
-- https://scryfall.com/card/cma/168/wolfbriar-elemental
+- https://scryfall.com/card/bbd/65/bramble-sovereign 1G: Create tokens when creatures come into play **$$**
+- https://scryfall.com/card/cma/168/wolfbriar-elemental Kicker XG : create x wolf tokens
+- https://scryfall.com/card/c16/8/faerie-artisans Copy last opponents creatures when they enter
 
 ### Life gain 
-- https://scryfall.com/card/xln/213/verdant-suns-avatar
+- https://scryfall.com/card/xln/213/verdant-suns-avatar Gain life on each creature ETB 
 
 ### Assorted random effects
-#### Creature protection
-- https://scryfall.com/card/c15/100/plaxmanta
 #### Card advantage-ish + creature
-- https://scryfall.com/card/eld/84/clackbridge-troll
-#### Power Switch
-- https://scryfall.com/card/cns/94/crookclaw-transmuter
+- https://scryfall.com/card/eld/84/clackbridge-troll Card advantage and life. Forces sacrifice. Bad against aristocrats.
 #### Weird stuffs
-- https://scryfall.com/card/m14/54/elite-arcanist
+- https://scryfall.com/card/m14/54/elite-arcanist Exile instant, copy it. Weak to removal
 #### +1/+1 Counters
-- https://scryfall.com/card/ddu/11/gladehart-cavalry
-- https://scryfall.com/card/war/205/merfolk-skydiver
-- https://scryfall.com/card/aer/121/ridgescale-tusker
-- https://scryfall.com/card/war/213/roalesk-apex-hybrid
-- https://scryfall.com/card/csp/120/shape-of-the-wiitigo
-- https://scryfall.com/card/m20/200/voracious-hydra
-- https://scryfall.com/card/eld/185/yorvo-lord-of-garenbrig
-- https://scryfall.com/card/cm2/134/champion-of-lambholt 
+- https://scryfall.com/card/ddu/11/gladehart-cavalry **Support 6**
+- https://scryfall.com/card/war/205/merfolk-skydiver **CREA x1** Flying Prolif
+- https://scryfall.com/card/aer/121/ridgescale-tusker **ALL CREA**
+- https://scryfall.com/card/war/213/roalesk-apex-hybrid **CREA x2**, Flying, trample, prolif
+- https://scryfall.com/card/csp/120/shape-of-the-wiitigo **CREA x6** Forces attack/block, weak to removal
+- https://scryfall.com/card/m20/200/voracious-hydra **xX FIGHT** Versatile and powerful
+- https://scryfall.com/card/eld/185/yorvo-lord-of-garenbrig Good with a lot of green
+- https://scryfall.com/card/cm2/134/champion-of-lambholt Makes your stuff unblockable
 #### Anti-graveyard
-- https://scryfall.com/card/c18/149/ground-seal
-- https://scryfall.com/card/c19/119/hedonists-trove card advantage too
-#### Misdirection
-- https://scryfall.com/card/c17/13/portal-mage
+- https://scryfall.com/card/c18/149/ground-seal Stops graveyard targetting, Draw
+- https://scryfall.com/card/c19/119/hedonists-trove Play the opponents graveyard
 #### Evasion 
-- https://scryfall.com/card/wwk/45/voyager-drake
-- https://scryfall.com/card/cm2/134/champion-of-lambholt
-- https://scryfall.com/card/c18/112/whitewater-naiads
+- https://scryfall.com/card/wwk/45/voyager-drake XU X creatures get flying for turn
+- https://scryfall.com/card/cm2/134/champion-of-lambholt 
+- https://scryfall.com/card/c18/112/whitewater-naiads Constellation Unblockable 
 
 
 
 ### Powerful  notable effects
-- https://scryfall.com/card/nph/31/chancellor-of-the-spires
-- https://scryfall.com/card/ima/49/day-of-the-dragons
-- https://scryfall.com/card/dgm/63/deadbridge-chant
-- https://scryfall.com/card/gtc/33/diluvian-primordial
-- https://scryfall.com/card/c16/8/faerie-artisans
-- https://scryfall.com/card/war/163/god-eternal-rhonas
-- https://scryfall.com/card/c14/146/gray-merchant-of-asphodel *IF A LOT OF BLACK*
-- https://scryfall.com/card/c14/114/infinite-reflection
-- https://scryfall.com/card/grn/184/lazav-the-multifarious
-- https://scryfall.com/card/c19/223/soul-foundry
-- https://scryfall.com/card/exo/75/spike-cannibal Anti +1/+1
-- https://scryfall.com/card/c14/274/strata-scythe
-- https://scryfall.com/card/mrd/261/thought-prison
+- https://scryfall.com/card/nph/31/chancellor-of-the-spires Play opponents graveyards Mill opponents if in hand first turn
+- https://scryfall.com/card/ima/49/day-of-the-dragons Exile all your creatures, shit ton of dragons, get all your creatures back when it leaves
+- https://scryfall.com/card/war/163/god-eternal-rhonas Boost all your creatures
+- https://scryfall.com/card/c14/146/gray-merchant-of-asphodel **BURN LIFE-GAIN** *IF A LOT OF BLACK*
+- https://scryfall.com/card/c14/114/infinite-reflection Get only powerful ETBs (On agent of treachery this becomes insane) Can backfire though.
+- https://scryfall.com/card/grn/184/lazav-the-multifarious Surveil and copy creatures
+- https://scryfall.com/card/c19/223/soul-foundry Exile your cards, pay X and get a token 
+- https://scryfall.com/card/exo/75/spike-cannibal Steal ALL the counters
+- https://scryfall.com/card/c14/274/strata-scythe Exile cards, get strong creature
+- https://scryfall.com/card/mrd/261/thought-prison **BURN**
 
 ### Element synergy
-- https://scryfall.com/card/ddt/1/master-of-waves
-- https://scryfall.com/card/m20/187/overgrowth-elemental 	
+- https://scryfall.com/card/ddt/1/master-of-waves +1/+1 elementals, create X elems X = Devotion to U
+- https://scryfall.com/card/m20/187/overgrowth-elemental +1/+1 counters w/ elems
 
 ### Landfall
 - https://scryfall.com/card/c18/129/avenger-of-zendikar
@@ -411,8 +412,8 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 ## Fun finds
 
 ### Interesting politic shenanigans
-- https://scryfall.com/card/c18/19/sower-of-discord
-- https://scryfall.com/card/m13/218/stuffy-doll
+- https://scryfall.com/card/c18/19/sower-of-discord Links opponents fate together
+- https://scryfall.com/card/m13/218/stuffy-doll Blocker and link to an opponent
 
 ### How to make yourself lose. Hard.
 - https://scryfall.com/card/gpt/34/sky-swallower
