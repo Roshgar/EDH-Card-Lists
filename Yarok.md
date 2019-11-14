@@ -371,33 +371,32 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/m20/187/overgrowth-elemental +1/+1 counters w/ elems
 
 ### Landfall
-- https://scryfall.com/card/c18/129/avenger-of-zendikar
-- https://scryfall.com/card/zen/200/eternity-vessel
-- https://scryfall.com/card/war/159/evolution-sage
-- https://scryfall.com/card/bfz/111/geyserfield-stalker
-- https://scryfall.com/card/ddp/14/grazing-gladehart
-- https://scryfall.com/card/bfz/78/guardian-of-tazeem
-- https://scryfall.com/card/bfz/112/guul-draz-overseer
-- https://scryfall.com/card/ima/174/lotus-cobra
-- https://scryfall.com/card/ima/101/ob-nixilis-the-fallen
-- https://scryfall.com/card/e01/69/oran-rief-hydra
-- https://scryfall.com/card/shm/74/polluted-bonds
-- https://scryfall.com/card/c19/176/rampaging-baloths
-- https://scryfall.com/card/e01/72/retreat-to-kazandu
-- https://scryfall.com/card/bfz/82/retreat-to-coralhelm
-- https://scryfall.com/card/c18/116/retreat-to-hagra
-- https://scryfall.com/card/zen/62/roil-elemental
-- https://scryfall.com/card/c18/221/seers-sundial
-- https://scryfall.com/card/bfz/206/sire-of-stagnation *OPPONENT LANDFALL*
-- https://scryfall.com/card/m14/196/sporemound
-- https://scryfall.com/card/dom/206/tatyova-benthic-druid
-- https://scryfall.com/card/soi/233/tireless-tracker
-- https://scryfall.com/card/e01/76/turntimber-basilisk
-- https://scryfall.com/card/bfz/197/undergrowth-champion
-- https://scryfall.com/card/bfz/88/wave-wing-elemental
-- https://scryfall.com/card/e01/30/windrider-eel
-- https://scryfall.com/card/ori/209/zendikars-roil
-- https://scryfall.com/card/shm/74/polluted-bonds Opponent
+- https://scryfall.com/card/c18/129/avenger-of-zendikar Go wide then go tall **$**
+- https://scryfall.com/card/zen/200/eternity-vessel Save your life
+- https://scryfall.com/card/war/159/evolution-sage Prolif
+- https://scryfall.com/card/bfz/111/geyserfield-stalker +2/+2
+- https://scryfall.com/card/ddp/14/grazing-gladehart Gain 2 life
+- https://scryfall.com/card/bfz/78/guardian-of-tazeem Tap creatures
+- https://scryfall.com/card/bfz/112/guul-draz-overseer +1/0 to all creatures
+- https://scryfall.com/card/ima/174/lotus-cobra Floating mana **$**
+- https://scryfall.com/card/ima/101/ob-nixilis-the-fallen Burn and go tall **$**
+- https://scryfall.com/card/e01/69/oran-rief-hydra Go tall
+- https://scryfall.com/card/shm/74/polluted-bonds **OPP** Burn and life-gain **$$**
+- https://scryfall.com/card/c19/176/rampaging-baloths 4/4 tokens
+- https://scryfall.com/card/e01/72/retreat-to-kazandu +1/+1 OR 2 life
+- https://scryfall.com/card/bfz/82/retreat-to-coralhelm Tap/untap or scry
+- https://scryfall.com/card/c18/116/retreat-to-hagra +1/0 deathtouch or burn and life
+- https://scryfall.com/card/zen/62/roil-elemental Theft
+- https://scryfall.com/card/c18/221/seers-sundial Draw
+- https://scryfall.com/card/bfz/206/sire-of-stagnation **OPP** Mill & Draw
+- https://scryfall.com/card/m14/196/sporemound Saprolings
+- https://scryfall.com/card/dom/206/tatyova-benthic-druid Life and cards
+- https://scryfall.com/card/soi/233/tireless-tracker Investigate and go tall
+- https://scryfall.com/card/e01/76/turntimber-basilisk Force block
+- https://scryfall.com/card/bfz/197/undergrowth-champion +1/+1 and damage prevention
+- https://scryfall.com/card/bfz/88/wave-wing-elemental +2/+2
+- https://scryfall.com/card/e01/30/windrider-eel +2/+2
+- https://scryfall.com/card/ori/209/zendikars-roil 2/2 tokens
 
 ### Energy counters
 - https://scryfall.com/card/kld/205/decoction-module return to hand as well
