@@ -366,6 +366,12 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/c14/274/strata-scythe Exile cards, get strong creature
 - https://scryfall.com/card/mrd/261/thought-prison **BURN**
 
+### Snow synergy
+- https://scryfall.com/card/csp/111/into-the-north **RAMP**
+- https://scryfall.com/card/mh1/56/marit-lages-slumber **SCRY**
+- 
+
+
 ### Element synergy
 - https://scryfall.com/card/ddt/1/master-of-waves +1/+1 elementals, create X elems X = Devotion to U
 - https://scryfall.com/card/m20/187/overgrowth-elemental +1/+1 counters w/ elems
