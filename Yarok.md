@@ -241,7 +241,7 @@ Some "as it enters", some not exactly ETB, but somewhat related, and interesting
 - https://scryfall.com/card/ima/183/primeval-titan **BANNED**
 - https://scryfall.com/card/inv/205/quirion-trailblazer **SEARCH BASIC LAND FIELD ELF**
 - https://scryfall.com/card/aer/122/rishkar-peema-renegade **COUNTERS DORK ELF**
-- https://scryfall.com/card/c19/222/solemn-simulacrum **SEARCH BASIC LAND FIELD ELF DRAW** **$**
+- https://scryfall.com/card/c19/222/solemn-simulacrum **SEARCH BASIC LAND FIELD DRAW** **$**
 - https://scryfall.com/card/mh1/181/springbloom-druid **SAC LAND SEARCH BASIC LAND FIELD x2 ELF**
 - https://scryfall.com/card/cma/151/sylvan-ranger **SEARCH BASIC LAND HAND ELF**
 - https://scryfall.com/card/soi/235/ulvenwald-hydra **SEARCH LAND FIELD**
